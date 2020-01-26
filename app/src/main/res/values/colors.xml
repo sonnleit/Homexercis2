@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#995757</color>
+    <color name="red">#cc241d</color>
+    <color name="green">#98971a</color>
+    <color name="yellow">#d79921</color>
+    <color name="accentyellow">#fabd2f</color>
+    <color name="blue">#458588</color>
+    <color name="accentblue">#83a598</color>
+    <color name="purple">#b16286</color>
+    <color name="aqua">#689d6a</color>
+    <color name="gray">#a89984</color>
+    <color name="foreground">#ebdbb2</color>
+</resources>
